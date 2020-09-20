@@ -1,0 +1,5 @@
+com\test\qa\utils\TestBase.class
+com\test\qa\test\UiAutomationTrainingAdvanceTest.class
+com\test\qa\testdata\UserDetailsDataProvider.class
+com\test\qa\test\UiAutomationTrainingMediumTest.class
+com\test\qa\test\UiAutomationTrainingBasicTest.class
